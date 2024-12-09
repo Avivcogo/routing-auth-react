@@ -43,7 +43,7 @@ import EventDetailsPage, {
 import NewEventPage from "./pages/NewEvent";
 import EditEventPage from "./pages/EditEvent";
 import RootLayout from "./pages/Root";
-import EventRootLayout from "./pages/EventRoot";
+import EventRootLayout from "./pages/EventsRoot";
 import ErrorPage from "./pages/Error";
 import { action as manipulateEventAction } from "./components/EventForm";
 import NewsletterPage, { action as newsletterAction } from './pages/Newsletter';
